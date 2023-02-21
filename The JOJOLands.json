@@ -1,0 +1,19 @@
+{
+  "title": "The JOJOLands",
+  "description": "JoJo's Bizarre Adventure Partie 9",
+  "artist": "Hirohiko Araki",
+  "author": "Hirohiko Araki",
+  "cover": "https://imgur.com/jMNOqio",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1676997562",
+      "groups": {
+        "Stairway to Vf": [
+          "https://imgur.com/a/38l09Pd"
+        ]
+      }
+    }
+  }
+}
