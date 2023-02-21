@@ -6,13 +6,11 @@
   "cover": "https://imgur.com/jMNOqio",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Chapitre 1 - Mécanisme",
       "volume": "1",
-      "last_updated": "1676997562",
+      "last_updated": "1676997770",
       "groups": {
-        "Stairway to Vf": [
-          "https://imgur.com/a/38l09Pd"
-        ]
+        "Stairway to VF": "/proxy/api/mangadex/chapter/ea57a639-5d9b-4d0e-a270-5886a36ca7f2"
       }
     }
   }
